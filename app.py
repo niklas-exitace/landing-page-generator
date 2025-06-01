@@ -32,22 +32,35 @@ PAGE_TYPES, ANGLES = load_configs()
 st.title("🚀 Landing Page Generator")
 st.markdown("Create high-converting landing pages using proven patterns from $100M+ in tracked sales")
 
-# Check for API key
-api_key = os.getenv("ANTHROPIC_API_KEY")
-if not api_key:
+# Initialize session state for API key
+if 'api_key' not in st.session_state:
+    st.session_state.api_key = None
+
+# Check for API key in session state
+if not st.session_state.api_key:
     st.warning("⚠️ API Key Required")
     st.info("To use this app, you need an Anthropic API key. Get one at https://console.anthropic.com")
-    api_key = st.text_input("Enter your Anthropic API Key:", type="password", 
-                           help="Your key will only be used for this session and is never stored")
-    if api_key:
-        os.environ["ANTHROPIC_API_KEY"] = api_key
+    api_key_input = st.text_input("Enter your Anthropic API Key:", type="password", 
+                                 help="Your key will only be used for this session and is never stored")
+    if api_key_input:
+        st.session_state.api_key = api_key_input
         st.success("✅ API Key set for this session!")
         st.rerun()
     st.stop()  # Stop execution until API key is provided
 
+# Set the API key for this session only
+os.environ["ANTHROPIC_API_KEY"] = st.session_state.api_key
+
 # Sidebar for configuration
 with st.sidebar:
     st.header("Page Configuration")
+    
+    # Add logout button at the top of sidebar
+    if st.button("🔒 Logout / Clear API Key", type="secondary"):
+        st.session_state.api_key = None
+        if "ANTHROPIC_API_KEY" in os.environ:
+            del os.environ["ANTHROPIC_API_KEY"]
+        st.rerun()
     
     # Basic Info
     product_name = st.text_input("Product Name", placeholder="e.g., LooksCode Elite")

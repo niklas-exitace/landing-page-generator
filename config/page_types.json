@@ -1,0 +1,91 @@
+{
+  "page_types": {
+    "quiz_funnel": {
+      "name": "Quiz Funnel",
+      "description": "Interactive quiz that segments and qualifies leads",
+      "structure": [
+        "headline",
+        "subheadline",
+        "problem_agitation",
+        "quiz_promise",
+        "cta_button",
+        "trust_elements",
+        "urgency_element",
+        "quiz_questions",
+        "results_framework",
+        "email_capture",
+        "follow_up_sequence"
+      ],
+      "optimal_for": ["cold_traffic", "segmentation", "low_commitment_entry"],
+      "conversion_range": "40-60% quiz completion, 60-80% email capture",
+      "question_count": {
+        "min": 5,
+        "optimal": 7,
+        "max": 10
+      }
+    },
+    "advertorial": {
+      "name": "Story-Driven Advertorial",
+      "description": "Long-form narrative that builds trust through personal story",
+      "structure": [
+        "headline",
+        "subheadline",
+        "opening_hook",
+        "problem_backstory",
+        "journey_discovery",
+        "transformation_results",
+        "system_introduction",
+        "offer_stack",
+        "guarantee",
+        "testimonials",
+        "faq",
+        "closing_argument"
+      ],
+      "optimal_for": ["warm_traffic", "high_ticket", "trust_building"],
+      "conversion_range": "15-25% email capture, 3-8% direct sale",
+      "word_count": {
+        "short": 1500,
+        "medium": 3000,
+        "long": 5000
+      }
+    },
+    "vsl_page": {
+      "name": "Video Sales Letter Page",
+      "description": "Video-centric page with minimal text",
+      "structure": [
+        "curiosity_headline",
+        "video_embed",
+        "urgency_text",
+        "bullet_benefits",
+        "cta_section",
+        "testimonials",
+        "guarantee",
+        "faq"
+      ],
+      "optimal_for": ["visual_learners", "mobile_traffic", "story_selling"],
+      "conversion_range": "20-40% watch rate, 2-5% conversion"
+    },
+    "sales_letter": {
+      "name": "Classic Sales Letter",
+      "description": "Direct response long-form sales page",
+      "structure": [
+        "pattern_interrupt_headline",
+        "lead",
+        "problem_identification",
+        "agitation",
+        "solution_introduction",
+        "credibility",
+        "benefits_features",
+        "social_proof",
+        "offer_stack",
+        "guarantee",
+        "bonuses",
+        "scarcity",
+        "close",
+        "ps_section"
+      ],
+      "optimal_for": ["direct_sale", "detailed_products", "skeptical_audiences"],
+      "conversion_range": "1-3% cold traffic, 5-15% warm traffic"
+    }
+  }
+}

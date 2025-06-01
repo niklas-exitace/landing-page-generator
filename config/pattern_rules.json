@@ -1,0 +1,124 @@
+{
+  "universal_patterns": {
+    "headline_formulas": {
+      "benefit_driven": {
+        "template": "[Achieve Desired Result] in [Specific Timeframe] Without [Common Obstacle]",
+        "examples": [
+          "Build Muscle in 90 Days Without Giving Up Your Favorite Foods",
+          "Double Your Revenue in 6 Months Without Working More Hours"
+        ]
+      },
+      "curiosity_gap": {
+        "template": "The [Unusual/Secret] [Method/Trick] That [Impressive Result]",
+        "examples": [
+          "The 5-Minute Morning Ritual That Melts Away 20 Pounds",
+          "The Email Template That Generated $2M in Sales"
+        ]
+      },
+      "problem_agitation": {
+        "template": "Still [Struggling With Problem]? Here's Why [Current Solutions] Don't Work",
+        "examples": [
+          "Still Tired All the Time? Here's Why Sleep Supplements Don't Work",
+          "Still Getting Ignored on Dating Apps? Here's Why Your Photos Don't Work"
+        ]
+      }
+    },
+    "trust_sequence": [
+      "small_credibility_marker",
+      "personal_vulnerability",
+      "specific_credentials",
+      "social_proof",
+      "results_evidence",
+      "guarantee",
+      "security_assurance"
+    ],
+    "emotional_journey_map": {
+      "awareness": ["problem_recognition", "pain_acknowledgment"],
+      "consideration": ["solution_possibility", "hope_introduction", "credibility_building"],
+      "decision": ["value_demonstration", "urgency_creation", "risk_removal"],
+      "action": ["clear_next_step", "friction_removal", "confidence_boost"]
+    },
+    "psychological_triggers": {
+      "mandatory": ["urgency", "social_proof", "authority"],
+      "recommended": ["scarcity", "curiosity", "transformation_promise"],
+      "optional": ["exclusivity", "controversy", "fear_of_missing_out"]
+    },
+    "value_stacking_formula": {
+      "structure": [
+        "main_product_value",
+        "bonus_1_specific_value",
+        "bonus_2_specific_value",
+        "bonus_3_specific_value",
+        "support_access_value",
+        "guarantee_value"
+      ],
+      "multiplier_rule": "Total value should be 10-15x the asking price",
+      "presentation": "List each component with individual value, sum total, show discount"
+    }
+  },
+  "page_specific_rules": {
+    "quiz_funnel": {
+      "question_count": "7-10 questions optimal",
+      "question_types": ["segmentation", "problem_identification", "urgency_gauge", "commitment_level"],
+      "results_types": "3-4 distinct outcomes based on scoring",
+      "personalization": "Use quiz taker's answers in results and follow-up"
+    },
+    "advertorial": {
+      "story_arc": "personal_struggle -> discovery -> transformation -> system -> invitation",
+      "word_count": "2000-5000 words optimal",
+      "credibility_placement": "After initial story hook, before solution reveal",
+      "cta_frequency": "Every 500-750 words"
+    },
+    "vsl_page": {
+      "text_minimal": "Only essential trust elements and benefits",
+      "video_focus": "All conversion heavy lifting in video",
+      "cta_timing": "After video or at specific video timestamps",
+      "mobile_first": "Assume 70% mobile viewing"
+    }
+  },
+  "industry_adaptations": {
+    "b2c_physical": {
+      "trust_emphasis": "shipping_security_returns",
+      "urgency_type": "inventory_based",
+      "social_proof": "reviews_photos_videos"
+    },
+    "b2c_digital": {
+      "trust_emphasis": "testimonials_guarantees",
+      "urgency_type": "price_or_bonus_based",
+      "social_proof": "success_stories_community_size"
+    },
+    "b2b_saas": {
+      "trust_emphasis": "case_studies_logos_integrations",
+      "urgency_type": "seat_limits_or_pricing_tiers",
+      "social_proof": "company_logos_roi_metrics"
+    },
+    "info_products": {
+      "trust_emphasis": "creator_credentials_student_results",
+      "urgency_type": "cohort_based_or_bonus_expiry",
+      "social_proof": "transformation_stories_earnings"
+    }
+  },
+  "effectiveness_multipliers": {
+    "high_impact": [
+      "specific_numbers_in_headlines",
+      "transformation_timeline",
+      "money_back_guarantee",
+      "limited_availability",
+      "price_anchoring"
+    ],
+    "medium_impact": [
+      "video_testimonials",
+      "celebrity_endorsement",
+      "media_mentions",
+      "countdown_timers",
+      "payment_plans"
+    ],
+    "nice_to_have": [
+      "trust_badges",
+      "faq_sections",
+      "chat_support",
+      "social_media_proof",
+      "awards_recognition"
+    ]
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "angles": {
+    "transformation_story": {
+      "name": "Personal Transformation",
+      "description": "From struggle to success narrative",
+      "emotional_arc": ["pain", "discovery", "journey", "triumph", "invitation"],
+      "best_for": ["relatable_products", "lifestyle_changes", "coaching"],
+      "key_elements": [
+        "vulnerable_beginning",
+        "specific_struggles",
+        "breakthrough_moment",
+        "detailed_journey",
+        "current_success",
+        "helping_others"
+      ],
+      "example_headlines": [
+        "How I Went From [Problem] to [Solution] in [Timeframe]",
+        "My [Struggle] Nearly Destroyed Me. Then I Discovered [Solution]",
+        "From [Negative State] to [Positive State]: My [Time] Journey"
+      ]
+    },
+    "authority_expert": {
+      "name": "Authority/Expert",
+      "description": "Credentialed expert sharing insider knowledge",
+      "emotional_arc": ["credibility", "problem_exposure", "solution_reveal", "proof", "exclusive_access"],
+      "best_for": ["high_ticket", "professional_services", "education"],
+      "key_elements": [
+        "credentials_upfront",
+        "industry_insights",
+        "common_mistakes",
+        "proprietary_method",
+        "case_studies",
+        "exclusive_knowledge"
+      ],
+      "example_headlines": [
+        "[Credential] Reveals: The [Number] [Industry] Secrets That [Result]",
+        "Why [Number]% of [Audience] Fail at [Goal] (And the [Expert] Solution)",
+        "The [Industry] Method [Experts] Don't Want You to Know"
+      ]
+    },
+    "data_driven": {
+      "name": "Data/Research Based",
+      "description": "Numbers and science-backed approach",
+      "emotional_arc": ["shocking_data", "analysis", "pattern_recognition", "solution", "proof"],
+      "best_for": ["analytical_audiences", "b2b", "tech_products"],
+      "key_elements": [
+        "compelling_statistics",
+        "research_citations",
+        "data_visualizations",
+        "logical_arguments",
+        "measurable_results",
+        "roi_focus"
+      ],
+      "example_headlines": [
+        "[Study] Shows [Percentage]% of [Audience] [Problem]. Here's the Fix",
+        "I Analyzed [Number] [Cases] and Found [Surprising Result]",
+        "The [Number] Data Points That Predict [Outcome]"
+      ]
+    },
+    "insider_secrets": {
+      "name": "Insider/Secrets",
+      "description": "Exclusive information from inside an industry",
+      "emotional_arc": ["curiosity", "revelation", "shock", "opportunity", "urgency"],
+      "best_for": ["info_products", "trading", "competitive_markets"],
+      "key_elements": [
+        "forbidden_knowledge",
+        "industry_expose",
+        "hidden_tactics",
+        "exclusive_access",
+        "limited_availability",
+        "competitive_advantage"
+      ],
+      "example_headlines": [
+        "The [Industry] Secret That [Insiders] Don't Want You to Know",
+        "Inside the [Exclusive Place] Where [Elite Group] [Get Result]",
+        "Leaked: The [Document/Method] [Industry] Uses to [Result]"
+      ]
+    },
+    "problem_agitation": {
+      "name": "Problem/Agitation",
+      "description": "Deep dive into pain before revealing solution",
+      "emotional_arc": ["problem_identification", "agitation", "consequences", "hope", "solution"],
+      "best_for": ["aware_audiences", "urgent_problems", "pain_products"],
+      "key_elements": [
+        "problem_articulation",
+        "emotional_amplification",
+        "future_pacing_negative",
+        "relief_introduction",
+        "solution_presentation",
+        "immediate_action"
+      ],
+      "example_headlines": [
+        "Still [Struggling With Problem]? Here's Why [Common Solution] Doesn't Work",
+        "The [Problem] That's Costing You [Loss] Every [Timeframe]",
+        "Warning: [Problem] Gets Worse After [Age/Event] (Unless You Do This)"
+      ]
+    },
+    "social_proof": {
+      "name": "Social Proof Heavy",
+      "description": "Led by success stories and testimonials",
+      "emotional_arc": ["others_success", "relatability", "possibility", "method", "inclusion"],
+      "best_for": ["community_products", "proven_systems", "transformation"],
+      "key_elements": [
+        "success_stories_upfront",
+        "diverse_testimonials",
+        "specific_results",
+        "common_thread",
+        "systematic_approach",
+        "join_the_winners"
+      ],
+      "example_headlines": [
+        "[Number] [Audience] Have Already [Achievement]. You're Next",
+        "How [Number] People [Achieved Result] Using [Method]",
+        "Join [Number] [Audience] Who [Transformation]"
+      ]
+    },
+    "contrarian": {
+      "name": "Contrarian/Controversial",
+      "description": "Challenges conventional wisdom",
+      "emotional_arc": ["conventional_wisdom", "why_its_wrong", "real_truth", "proof", "new_way"],
+      "best_for": ["saturated_markets", "sophisticated_audiences", "disruption"],
+      "key_elements": [
+        "myth_busting",
+        "controversial_claims",
+        "evidence_presentation",
+        "paradigm_shift",
+        "us_vs_them",
+        "revolutionary_approach"
+      ],
+      "example_headlines": [
+        "Everything You Know About [Topic] Is Wrong",
+        "Why [Common Advice] Is Actually Making Your [Problem] Worse",
+        "The [Industry] Lie That's Keeping You [Problem]"
+      ]
+    },
+    "urgency_scarcity": {
+      "name": "Urgency/Scarcity Driven",
+      "description": "Time or availability pressure upfront",
+      "emotional_arc": ["limited_opportunity", "value_reveal", "proof", "shrinking_window", "action"],
+      "best_for": ["launches", "seasonal", "cohort_based"],
+      "key_elements": [
+        "deadline_upfront",
+        "reason_for_limit",
+        "value_despite_urgency",
+        "social_proof_of_demand",
+        "countdown_elements",
+        "consequence_of_missing"
+      ],
+      "example_headlines": [
+        "Only [Number] Spots Left for [Opportunity] (Closes [Deadline])",
+        "[Event] Ends in [Time]: Last Chance for [Result]",
+        "Warning: [Price/Opportunity] Changes in [Countdown]"
+      ]
+    }
+  }
+}

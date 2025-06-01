@@ -1,0 +1,122 @@
+{
+  "defaults": {
+    "industry": "mens_appearance",
+    "product_type": "digital",
+    "target_audience": {
+      "gender": "male",
+      "age_range": "25-45",
+      "awareness_level": "problem_aware",
+      "sophistication": "medium-high"
+    },
+    "voice_tone": "informed_friend",
+    "guarantee_type": "60_day_transformation"
+  },
+  "pages": [
+    {
+      "product_name": "LooksCode Fundamentals",
+      "page_type": "quiz_funnel",
+      "price_point": 197,
+      "angle": "data_driven",
+      "urgency_level": "medium",
+      "benefits": [
+        "Identify your appearance bottlenecks in 2 minutes",
+        "Get personalized improvement roadmap",
+        "Save thousands on wrong treatments",
+        "Look 5 years younger in 90 days",
+        "Boost dating and professional success"
+      ],
+      "pain_points": [
+        "Don't know where to start with appearance",
+        "Wasted money on products that don't work",
+        "Looking older than actual age",
+        "Getting ignored in dating and business",
+        "Confused by conflicting advice"
+      ],
+      "unique_mechanism": "AI-powered facial analysis technology",
+      "bonuses": [
+        {"name": "Provider Directory", "value": "297"},
+        {"name": "Quick Win Guide", "value": "97"}
+      ]
+    },
+    {
+      "product_name": "LooksCode Elite Transformation",
+      "page_type": "advertorial",
+      "price_point": 997,
+      "angle": "transformation_story",
+      "urgency_level": "high",
+      "length": "long",
+      "benefits": [
+        "Complete appearance transformation system",
+        "Direct access to vetted aesthetic experts",
+        "Save $10,000+ on trial and error",
+        "Look like a different person in 6 months",
+        "Unlock elite dating and social opportunities"
+      ],
+      "pain_points": [
+        "Tired of being invisible despite success",
+        "Appearance doesn't match achievements",
+        "Lost confidence from aging",
+        "Missing out on opportunities",
+        "Don't trust random providers"
+      ],
+      "unique_mechanism": "Swiss clinic methodology adapted for everyday men",
+      "bonuses": [
+        {"name": "Personal Consultation", "value": "497"},
+        {"name": "VIP Provider Access", "value": "997"},
+        {"name": "Lifetime Updates", "value": "497"}
+      ]
+    },
+    {
+      "product_name": "LooksCode Quick Start",
+      "page_type": "sales_letter",
+      "price_point": 47,
+      "angle": "problem_agitation",
+      "urgency_level": "high",
+      "length": "short",
+      "benefits": [
+        "3 quick wins for immediate improvement",
+        "Look better in 30 days guaranteed",
+        "No procedures or major investment",
+        "Build foundation for transformation",
+        "Risk-free trial of our system"
+      ],
+      "pain_points": [
+        "Need results fast for upcoming event",
+        "Can't afford expensive treatments yet",
+        "Skeptical but curious",
+        "Want to test before committing",
+        "Need confidence boost now"
+      ],
+      "unique_mechanism": "Rapid improvement protocol",
+      "bonuses": [
+        {"name": "Emergency Glow-Up Guide", "value": "47"}
+      ]
+    },
+    {
+      "product_name": "Age Reversal Masterclass",
+      "page_type": "vsl_page",
+      "price_point": 297,
+      "angle": "insider_secrets",
+      "urgency_level": "medium",
+      "benefits": [
+        "Reverse 10 years of aging in 90 days",
+        "Celebrity anti-aging secrets revealed",
+        "Non-surgical methods only",
+        "Works for any age or starting point",
+        "Permanent results with maintenance"
+      ],
+      "pain_points": [
+        "Aging faster than peers",
+        "Look tired all the time",
+        "Lost youthful appearance",
+        "Don't want surgery",
+        "Scared of looking worse with age"
+      ],
+      "unique_mechanism": "Hollywood age reversal protocols",
+      "bonuses": [
+        {"name": "Anti-Aging Supplement Guide", "value": "97"},
+        {"name": "Cellular Rejuvenation Protocol", "value": "197"}
+      ]
+    }
+  ]
+}

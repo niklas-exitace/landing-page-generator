@@ -1,0 +1,48 @@
+# Environment variables
+.env
+*.env
+
+# API Keys
+*api_key*
+*API_KEY*
+
+# Generated outputs
+generated_pages/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+ENV/
+env/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Test files
+test_*.py
+TEST_*.md
+QUICK_START.md
+RUN_ME.bat
+OPEN_GENERATED_PAGES.bat
+README_QUICK_START.txt
+
+# Files with sensitive data
+*api_key*
+*API_KEY*
+test_generator.py
